@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-This page is under construction and filled in the next days.
+I'm Josef Fröhle, I work at B1 Systems GmbH and I love fighting problems every day.
+
+I like to deal with ansbile, docker, Kubernetes, Cyber Security, Alpine Linux and much more than I could write down here.
+
+
+## My Stats
+
+![Dexus GitHub stats](https://github-readme-stats.vercel.app/api?username=Dexus&show_icons=true)
 
 <br>
 
