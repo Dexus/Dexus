@@ -11,8 +11,14 @@ I like to deal with ansbile, docker, Kubernetes, Cyber Security, Alpine Linux an
 
 <br>
 
-### You like my work? I'll accept Coins
+![trophy](https://github-profile-trophy.vercel.app/?username=Dexus)
 
+<br>
+
+### You like my work?
+<details>
+  <summary>Watch how you can support my work! Maybe you like to spend some Coin?</summary>
+  
 | Coin             |     Symbol      | Address                                                                                           |
 | ---------------- | :-------------: | ------------------------------------------------------------------------------------------------- |
 | 0x               |      (ZRX)      | `0xF64b221feA95f3809af52E978426E00b5575A97C`                                                      |
@@ -48,7 +54,7 @@ I like to deal with ansbile, docker, Kubernetes, Cyber Security, Alpine Linux an
 | Yearn Finance    |      (YFI)      | `0xF64b221feA95f3809af52E978426E00b5575A97C`                                                      |
 | Zcash            |      (ZEC)      | `t1QgTMgEgg46GxCX67nams4DkZqHGwZkY69`                                                             |
 
-
+</details>
 <br>
 
 ## 📫 How to reach me
