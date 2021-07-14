@@ -25,6 +25,7 @@ I like to deal with ansbile, docker, Kubernetes, Cyber Security, Alpine Linux an
 | Algorand         | (ALGO) or (ASA) | `GNXP4K5F4VAYSZVF6CQY3XL6UAGCJ5ZPBUP254H4KFGQIMAWZHTQPFUEVM`                                      |
 | Bitcoin          |      (BTC)      | `bc1qrxwdxjm5uwylj25rvw9a2gc3vkl8vecu3dlgmx`                                                      |
 | Bitcoin Cash     |      (BCH)      | `bitcoincash:qqj3s8zz9sxhw3hwua3juttnk4sequdtpvap3xytrl`                                          |
+| Cardano          |     (ADA)       | `addr1qxe4t783rke80cqdqawzz0eg20fl3ya4pxfgllj6g9pxmj5lgj0umr775t7qzqut5err7z4xjtfu422760qzcdp49jaq5nrp9h` |
 | Bitcoin Gold     |      (BTG)      | `AWkxD3s6HtiJBNQ5rpLpdKgBeoNDZdnYPE`                                                              |
 | Chainlink        |     (LINK)      | `0xF64b221feA95f3809af52E978426E00b5575A97C`                                                      |
 | Compound         |     (COMP)      | `0x96fcbd183dc94c25438e66c6E97D137951D61Da7`                                                      |
