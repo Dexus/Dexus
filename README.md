@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-I'm Josef Fröhle, I work at B1 Systems GmbH and I love fighting problems every day.
 
 I like to deal with ansbile, docker, Kubernetes, Cyber Security, Alpine Linux and much more than I could write down here.
 
