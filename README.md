@@ -1,8 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 
 
 I like to deal with ansbile, docker, Kubernetes, Cyber Security, Alpine Linux and much more than I could write down here.
 
+## My Projects active working on
+
+- [@deepnest-next/deepnest](https://github.com/deepnest-next/deepnest) - An open source nesting application for laser cutters and CNC machines.
 
 ## My Stats
 
